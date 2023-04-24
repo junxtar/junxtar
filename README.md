@@ -4,7 +4,6 @@
   <br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunxtar%2Fhit-counter&count_bg=%2362B2E3&title_bg=%238AED74&icon=adblock.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
   <br/>
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0"></iframe>
   
   <br/><br/>
 ## 👩‍💻 My Github Stats 👩‍💻
