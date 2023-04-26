@@ -11,7 +11,7 @@
 ## 👩‍💻 My Github Stats 👩‍💻
 <img src="https://github-readme-stats.vercel.app/api?username=junxtar&show_icons=true&theme=highcontrast"> <br/><br/><br/>
 
-## 💪Problem Solving💪 
+## 💪 Problem Solving 💪 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aa1870088)](https://solved.ac/aa1870088)<br/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
